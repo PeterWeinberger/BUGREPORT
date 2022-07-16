@@ -1,8 +1,6 @@
-# BUGS-REPORT-AND-FEATURE-REQUEST
+# BUGS-REPORT
 
 Here you can:
-
-Request new features for games made by Peter Weinberger
 
 Report issues (bugs) you may encounter within the games made by Peter Weinberger
 
