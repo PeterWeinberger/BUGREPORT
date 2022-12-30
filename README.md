@@ -2,7 +2,7 @@
 
 Here you can:
 
-Report issues (bugs) you may encounter within the games made by Peter Weinberger
+Report issues (bugs) you may encounter within the services provided by Peter Weinberger
 
 All issues will be dealt with as soon as time and resources permit it.
 
